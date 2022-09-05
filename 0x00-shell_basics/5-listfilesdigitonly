@@ -1,2 +1,3 @@
-#!/bin/bashd
+#!/bin/bash
+id
 ls -la .*
