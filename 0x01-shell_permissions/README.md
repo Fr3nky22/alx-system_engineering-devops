@@ -1,0 +1,1 @@
+Shell permissions test project
