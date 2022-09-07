@@ -1,2 +1,2 @@
 #!/bin/bash
-awk -v c=3 'NR==c { print $3 }' iacta
+head -n 3 file.txt | tail -n 3
